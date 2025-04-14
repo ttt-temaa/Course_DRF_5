@@ -172,3 +172,4 @@
 
  # PyPI configuration file
  .pypirc
+ .idea
